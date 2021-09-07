@@ -1,0 +1,24 @@
+ul.related_posts_container {
+    list-style: none;
+    display: grid;
+    grid-template: auto/repeat(auto-fit,minmax(180px,2fr));
+    gap: 15px;
+    padding: 0;
+    margin-bottom: 1rem;
+}
+
+li.related_post {
+    display: inline-block;
+    margin: .5rem;
+    vertical-align: top;
+}
+
+img.related_post_img.wp-post-image {
+    object-fit: cover;
+    height: 180px;
+}
+
+.related_content {
+    font-weight: 700;
+    margin-top: .75rem;
+}
