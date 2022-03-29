@@ -1,5 +1,5 @@
 # Related Posts
-#### One way to show your related posts on WordPress, without using a plugin. Made for https://osprofanos.com
+#### One way to show your related posts on WordPress, without using a plugin. Made for https://profanos.com
 
 At the end of the page, it will display 4 related posts.
 
